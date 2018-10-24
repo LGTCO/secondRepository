@@ -1,5 +1,6 @@
 REAMME PLEASE
 changes
 shange again
-creating a new branch is quick & simple.
+create a new branch is quick and simple
+
 
